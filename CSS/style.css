@@ -2,6 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Amatic+SC&family=Caveat:wght@500;700&display=swap');
+
 body {
     width: 960px;
     margin: auto;
@@ -88,3 +89,92 @@ main section p {
     margin-right: 40px;
 }
  
+form {
+    font-family: 'Akaya Telivigala', cursive;
+    background-image: url("../img/list-bg.png");
+    height: 200px;
+    margin-right:60px;    
+}
+
+
+form ul {float: left;
+    line-height: 1.5;
+    list-style-type: none;
+    text-align: 1.5px;
+    
+}
+
+form ul2 {
+        float: right;
+        list-style-type: none;
+        margin-right: 100px;
+        padding-top: 15px;
+        line-height: 1.5;
+}
+
+   
+main section img {
+        float: left;
+        margin-top: 0px;
+        padding-right: 0px;
+}
+
+main section h3 {
+        margin-left: 40px;
+}
+
+
+main section button {
+        float: right;
+        padding: 15px 25px;
+        background-color: brown;
+        margin-right: 60px;
+        text-transform: uppercase;
+        color: white;
+        border: none;
+
+}
+.food {
+    float: left;
+    margin-left:-50px ;
+   
+}
+.vanessa {
+        margin-bottom: 50px;
+        
+}
+
+    
+.people {
+        line-height: .0;
+        
+}
+
+.nasa {
+        margin-right: 60px;
+     }
+
+
+    footer {
+        margin-top: 50px;
+        clear: both;
+    height: 120px; 
+    text-align: center;
+    text-transform: capitalize;
+    margin-left: auto;
+    margin-right: auto;
+
+    
+     }
+
+
+    footer img {
+        width: 20px;
+        display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 40px;
+    }
+
+
+    
