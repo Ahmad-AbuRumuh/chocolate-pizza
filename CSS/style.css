@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yellowtail&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Akaya+Telivigala&family=Amatic+SC&family=Caveat:wght@500;700&display=swap');
+body {
+    width: 960px;
+    margin: auto;
+}
+
+
+header{
+    clear: both;
+    height: 70px;
+    padding-top: 20px;
+    line-height: .3;
+    display: block;
+} 
+
+
+.logo {
+    float: left;
+    padding-right: 10px;
+    
+}
+
+
+header nav h2 {
+    padding-top: 10px;
+    padding-left: 10px;
+    font-family: 'Yellowtail', cursive;
+}
+
+
+header nav p {
+vertical-align: bottom;
+    font-size: xxsmall;
+    float: left;
+    margin-top: 0px;
+    text-transform: uppercase;
+    color: lightslategrey;
+    font-family: 'Amatic SC', cursive
+    
+}
+ 
+
+
+ header nav section {
+     float: right;
+     padding-right: 60px;
+     
+}
+
+h1 {
+    font-family: 'Oswald', sans-serif;
+    padding-top: 10px;
+}
+
+
+
+hr {
+    height: 10px;
+    background-image: url(../img/hr-img.png);
+    margin-right: 60px;
+    margin-top: 50px;
+    width: auto;
+}
+
+
+.choco {
+    line-height: .1;
+}
+
+
+.choco p {
+ text-transform: uppercase;
+ font-size: small;
+ color: lightslategrey;
+}
+.choco img {
+    float: right;
+    margin-right: 60px;
+    padding-bottom: 10px;
+}
+
+
+main section p {
+    text-indent: 50px;
+    margin-right: 40px;
+}
+ 
